@@ -1,0 +1,9 @@
+Package: com.netskao.wctimelinemessagetail
+Name: WCTimeLineMessageTail
+Version: 1.1-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 14.0)
+Description: WeChat Time Line Message Tail Custom Text
+Author: Netskao
+Maintainer: Nets
+Section: Netskao-Tweaks
